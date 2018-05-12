@@ -1,0 +1,38 @@
+_repo: Little-Oskaloo--or-The-White-Whirlwind_33352
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Rexford, Eben E. (Eben Eugene)
+    alias: Rexford, Eben Eugene
+    birthdate: 1848
+    deathdate: 1916
+    gutenberg_agent_id: '31205'
+    url: http://www.gutenberg.org/2009/agents/31205
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harbaugh, T. C. (Thomas Chalmers)
+    aliases:
+    - Harbaugh, Thomas Chalmers
+    - Grant, A. F.
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '36351'
+    url: http://www.gutenberg.org/2009/agents/36351
+description: ''
+gutenberg_issued: '2010-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33352'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcc 'PZ'
+tableOfContents: Little Oskaloo; or, The White Whirlwind -- Treed by a bear.
+title: Little Oskaloo; or, The White Whirlwind
+url: http://www.gutenberg.org/ebooks/33352
